@@ -1,0 +1,3 @@
+- The chess board will be typical, with an 8x8 grid.
+- The code will handle the co-ordinates starting from 1, through to 8. There will be no 0 co-ordinate.
+- The pieces will be set parallel in two horizontal rows to the viewer, with white on the bottom of the board.
