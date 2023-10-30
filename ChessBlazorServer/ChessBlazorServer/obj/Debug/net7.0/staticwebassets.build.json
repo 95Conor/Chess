@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "xHteJ3j4jvPIwBdp/bSRmLzDjpz/dcNUXhwPXtfLWgU=",
+  "Source": "ChessBlazorServer",
+  "BasePath": "_content/ChessBlazorServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChessBlazorServer\\wwwroot",
+      "Source": "ChessBlazorServer",
+      "ContentRoot": "C:\\Users\\ConorMaher\\source\\repos\\95Conor\\Chess\\ChessBlazorServer\\ChessBlazorServer\\wwwroot\\",
+      "BasePath": "_content/ChessBlazorServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ConorMaher\\source\\repos\\95Conor\\Chess\\ChessBlazorServer\\ChessBlazorServer\\wwwroot\\css\\site.css",
+      "SourceId": "ChessBlazorServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ConorMaher\\source\\repos\\95Conor\\Chess\\ChessBlazorServer\\ChessBlazorServer\\wwwroot\\",
+      "BasePath": "_content/ChessBlazorServer",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

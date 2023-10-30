@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ConorMaher\\source\\repos\\95Conor\\Chess\\ChessBlazorServer\\ChessBlazorServer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ChessBlazorServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ChessBlazorServer.props",
+      "PackagePath": "build\\ChessBlazorServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ChessBlazorServer.props",
+      "PackagePath": "buildMultiTargeting\\ChessBlazorServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ChessBlazorServer.props",
+      "PackagePath": "buildTransitive\\ChessBlazorServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
