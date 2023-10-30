@@ -22,5 +22,11 @@ namespace Core.Game.Pieces
 
         // Inactive pieces have been captured and are off the board.
         public bool Active { get; set; }
+
+        // Possible moves the piece can be moved to within one turn.
+        // Does not account for other pieces on the board. This will be separate logic.
+        // Each piece will implement differently based on their unique move type.
+        // This will be based on their CurrentPlace.
+        public abstract List<Place> PossibleMoves();
     }
 }

@@ -12,5 +12,10 @@ namespace Core.Game.Pieces
         public Pawn(PieceColour pieceColour, Place place) : base(pieceColour, place)
         {
         }
+
+        public override List<Place> PossibleMoves()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

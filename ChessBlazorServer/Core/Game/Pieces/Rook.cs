@@ -12,5 +12,10 @@ namespace Core.Game.Pieces
         public Rook(PieceColour pieceColour, Place place) : base(pieceColour, place)
         {
         }
+
+        public override List<Place> PossibleMoves()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
